@@ -11,7 +11,12 @@ public class DemoApplication {
 
 		string name = "pam";
 
-		system.out.println(name)
+		system.out.println(name);
+
+		Integer age = "20"
+		system.out.println(age + 5);
+		Integer age = "25"
+		system.out.println(age + 6)
 	}
 
 }
