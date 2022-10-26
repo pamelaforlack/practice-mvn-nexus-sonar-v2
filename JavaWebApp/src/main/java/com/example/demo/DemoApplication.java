@@ -11,7 +11,8 @@ public class DemoApplication {
 
 		String name = "pam";
 
-		System.out.println(name);
+		system.out.println(name)
+		
 	}
 
 }
